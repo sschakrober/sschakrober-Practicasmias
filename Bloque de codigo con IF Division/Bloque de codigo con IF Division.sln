@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloque de codigo con IF Division", "Bloque de codigo con IF Division\Bloque de codigo con IF Division.csproj", "{28612073-6639-4FA8-9ECB-94018366285E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28612073-6639-4FA8-9ECB-94018366285E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28612073-6639-4FA8-9ECB-94018366285E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28612073-6639-4FA8-9ECB-94018366285E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28612073-6639-4FA8-9ECB-94018366285E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6783E7E-E6A1-40C4-86F3-44A02944A5E1}
+	EndGlobalSection
+EndGlobal
